@@ -21,7 +21,7 @@ git checkout -b scratch origin/scratch
 ```
 
 ## **Steps to Generate PAT:**
-Each collaborator needs to generate a personal access token and need to use this every time they push code. This is only shown once so generate it and save it somewhere so that you can reuse it.
+Each collaborator needs to generate a personal access token and need to use this every time they push code along with their username. This is only shown once so generate it and save it somewhere so that you can reuse it.
 
 ### Steps to Generate a PAT:
 
