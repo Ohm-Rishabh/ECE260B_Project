@@ -36,8 +36,6 @@ Each collaborator needs to generate a personal access token and need to use this
 5.  Choose necessary permissions (e.g., repo for repository access).
 
 6.  Click "Generate token" and copy it immediately.
-
-Use this PAT when prompted for a password in Git operations.
 ---
 
 ## **Daily Workflow**
