@@ -49,7 +49,12 @@ git add .  # Stage resolved files
 git commit -m "Resolved merge conflicts"
 ```
 
-### **4. Push Your Changes to `scratch`**
+### **4. Double Check Which Branch You Are Pushing Into**
+```sh
+git status  # Shows all the differences between your branch and the latset one
+```
+
+### **5. Push Your Changes to `scratch`**
 Once your changes are committed:
 ```sh
 git push origin scratch  # Push the updated scratch branch
