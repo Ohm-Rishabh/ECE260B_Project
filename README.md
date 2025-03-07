@@ -20,7 +20,7 @@ cd <repo-folder>
 git checkout -b scratch origin/scratch
 ```
 
-## **Steps to Generate PAT:**
+## **Personal Access Token:**
 Each collaborator needs to generate a personal access token and need to use this as the password every time they push code along with their username. This is only shown once so generate it and save it somewhere so that you can reuse it.
 
 ### Steps to Generate a PAT:
