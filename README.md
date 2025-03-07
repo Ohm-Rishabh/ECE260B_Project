@@ -20,6 +20,24 @@ cd <repo-folder>
 git checkout -b scratch origin/scratch
 ```
 
+Steps to Generate PAT:
+Each collaborator needs to generate a personal access token and need to use this every time they push code. This is only shown once so generate it and save it somewhere so that you can reuse it.
+
+Steps to Generate a PAT:
+
+Log in to GitHub and go to Settings.
+
+Navigate to Developer settings > Personal access tokens.
+
+Click "Generate new token" and provide a descriptive name.
+
+Select an expiration date (recommended: 30 or 90 days).
+
+Choose necessary permissions (e.g., repo for repository access).
+
+Click "Generate token" and copy it immediately.
+
+Use this PAT when prompted for a password in Git operations.
 ---
 
 ## **Daily Workflow**
